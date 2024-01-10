@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654626843466",
+    "project_id": "circle-83755",
+    "storage_bucket": "circle-83755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654626843466:android:1bcc3b6f4984feaad56fb3",
+        "android_client_info": {
+          "package_name": "com.example.circle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654626843466-gurdpcotddvevks7sm7l721sjghfngvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKt3yTL1vE8Fcnny3rKo4HXqPZJZ0uNP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654626843466-gurdpcotddvevks7sm7l721sjghfngvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
